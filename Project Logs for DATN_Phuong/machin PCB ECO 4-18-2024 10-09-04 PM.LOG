@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=buzz Pin=BZZ1-1
+Added Component: Designator=R7(tro vach 1/2w)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH007240"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Tr? 5% 1/2w 1K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=buzz Pin=R7-1
+Added Pin To Net: NetName=NetBZZ1_1 Pin=BZZ1-1
+Added Pin To Net: NetName=NetBZZ1_1 Pin=R7-2
+Added Net: Name=NetBZZ1_1
+Added Member To Class: ClassName=nguyenly Member=Component JP2 Header 2_1
+Added Member To Class: ClassName=nguyenly Member=Component R7 220

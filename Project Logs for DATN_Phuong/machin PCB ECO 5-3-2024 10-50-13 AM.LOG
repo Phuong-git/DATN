@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=+5 Pin=*SIM1-2
+Added Component: Designator=C9(tu hoa 13mm)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH002315"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "T? Hóa 1000uF 25V 13x21MM"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5 Pin=C9-1
+Added Pin To Net: NetName=Net*SIM1_2 Pin=*SIM1-2
+Added Pin To Net: NetName=Net*SIM1_2 Pin=C9-2
+Added Net: Name=Net*SIM1_2
+Added Member To Class: ClassName=nguyenly Member=Component C9 1000uF
